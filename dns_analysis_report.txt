@@ -1,0 +1,21 @@
+DNS Response Time Analysis
+===========================
+
+ISP DNS Statistics:
+Minimum Response Time: 5.737599 ms
+Maximum Response Time: 188.442946 ms
+Average Response Time: 50.33128234444444 ms
+
+Google (8.8.8.8) DNS Statistics:
+Minimum Response Time: 40.772758 ms
+Maximum Response Time: 40.964934 ms
+Average Response Time: 40.8638575 ms
+
+Cloudflare (1.1.1.1) DNS Statistics:
+Minimum Response Time: 12.99639 ms
+Maximum Response Time: 14.838398 ms
+Average Response Time: 13.760232900000002 ms
+
+
+Fastest DNS Server: Cloudflare (1.1.1.1)
+Check 'dns_comparison_bar.png' for a visual comparison.
